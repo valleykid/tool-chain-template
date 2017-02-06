@@ -1,1 +1,1 @@
-export default { vkme: 'vkme' };
+export default { title: 'vkme' };
